@@ -1,0 +1,1 @@
+25/09/2025 17:11:14An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
